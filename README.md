@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Meu nome é Victor<br><br> 📚 Estou no 2º semestre de Ciências da Computação na Universidade Católica de Brasília.<br>
+<p align="left">Meu nome é Victor<br><br> 📚 Estou no 2º semestre de Ciências da Computação na Universidade Católica de Brasília.<br> <br> Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI.
 
 ###
 
