@@ -15,15 +15,4 @@
  <br> Estou no 2º semestre de Ciências da Computação na Universidade Católica de Brasília. <br> Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI. 
  <br>Estou no 3º semestre como técnico em Informática na Escola Técnica de Brasília.
 
-
-<h3 align="left">🛠 Skills: </h3>
-
-###
-
-<div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  
-</div>
-
 ###
