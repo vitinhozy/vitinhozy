@@ -17,7 +17,7 @@
  <br>Estou no 3º semestre como técnico em Informática na Escola Técnica de Brasília.
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhozy&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <br>
 
 <img 
