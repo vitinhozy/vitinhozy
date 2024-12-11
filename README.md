@@ -20,4 +20,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhozy&show_icons=true&theme=transparent) 
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhozy&layout=compact)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhozy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 
