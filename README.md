@@ -17,5 +17,5 @@
  <br>Estou no 3º semestre como técnico em Informática na Escola Técnica de Brasília.
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhozy&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhozy&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhozy&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhozy&layout=compact)
+
