@@ -13,8 +13,8 @@
 <p align="left">Meu nome é Victor, Tenho 21 anos...
  
  <br> 📚
- <br> Estou no 2º semestre de Ciências da Computação na Universidade Católica de Brasília. <br> Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI. 
- <br>Estou no 3º semestre como técnico em Informática na Escola Técnica de Brasília.
+ <br> Estou no 3º semestre de Ciências da Computação na Universidade Católica de Brasília. <br> Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI. 
+ <br>Estou no 4º semestre como técnico em Informática na Escola Técnica de Brasília.
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitinhozy&theme=dark&show_icons=true)
