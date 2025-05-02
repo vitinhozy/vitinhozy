@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Developer;Apaixonado%20por%20tecnologia&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=welcome%20to%20my%20profile.&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
+
 
 <h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
