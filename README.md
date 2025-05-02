@@ -1,12 +1,13 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/vitinhozy">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Victor Castro" /></a>
 </p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Developer;Apaixonado%20por%20aprender;Buscando%20desafios;Apaixonado%20por%20tecnologia;Estou%20no%20meu%20primeiro%20emprego%20de%20tecnologia%20e%20aprendendo%20todos%20os%20dias%20%3A)&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Developer;Apaixonado%20por%20aprender;Buscando%20desafios;Apaixonado%20por%20tecnologia;Estou%20no%20meu%20primeiro%20emprego%20de%20tecnologia%20e%20aprendendo%20todos%20os%20dias%20%3A)&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 <h1 align="center">Olá 👋</h1>
 
