@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Developer;Apaixonado%20por%20aprender;Buscando%20desafios;Apaixonado%20por%20tecnologia;Estou%20no%20meu%20primeiro%20emprego%20de%20tecnologia%20e%20aprendendo%20todos%20os%20dias%20%3A)&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back%20End%20Dev;Apaixonado%20por%20tecnologia&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
