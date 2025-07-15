@@ -10,8 +10,8 @@
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
 <ul align="center">
-  <li>📚 Estou no 3º semestre de Ciências da Computação na Universidade Católica de Brasília.</li>
-  <li>💻 Estou no 4º semestre como técnico em Informática na Escola Técnica de Brasília.</li>
+  <li>📚 Estou no 4º semestre de Ciências da Computação na Universidade Católica de Brasília.</li>
+  <li>💻 Sou formado em técnico em Informática na Escola Técnica de Brasília.</li>
   <li>💼 Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI.</li>
 </ul>
 
