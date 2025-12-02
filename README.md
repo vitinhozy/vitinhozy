@@ -8,7 +8,7 @@
 
 <ul align="center">
   <li>📚 Estou no 4º semestre de Ciências da Computação na Universidade Católica de Brasília.</li>
-  <li>💻 Sou formado em técnico em Informática na Escola Técnica de Brasília.</li>
+  <li>💻 Sou formado como Técnico em Informática na Escola Técnica de Brasília.</li>
   <li>💼 Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI.</li>
 </ul>
 
