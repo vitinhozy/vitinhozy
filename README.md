@@ -7,9 +7,9 @@
 <h3 align="center">👨‍💻 Sobre mim</h3>
 
 <ul align="center">
-  <li>📚 Estou no 4º semestre de Ciências da Computação na Universidade Católica de Brasília.</li>
+  <li>📚 Estou no 5º semestre de Ciências da Computação na Universidade Católica de Brasília.</li>
   <li>💻 Sou formado como Técnico em Informática na Escola Técnica de Brasília.</li>
-  <li>💼 Atualmente trabalho na Brasal Refrigerantes como Aprendiz de TI.</li>
+  <li>💼 Atualmente trabalho na Cast como Desenvolvedor Jr com foco em automação utilizando a Power Platform.</li>
 </ul>
 
 ---
